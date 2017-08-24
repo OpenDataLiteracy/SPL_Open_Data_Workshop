@@ -1,4 +1,4 @@
-# Planning Process and Materials
+# Planning Process & Materials
 This section is all about event planning and logistics. Here you will find information on Seattle Public Library's specific event logistics including:
 * Step-by-step planning process guide
 * Learning goals and outcomes
