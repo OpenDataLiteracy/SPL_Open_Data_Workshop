@@ -6,3 +6,4 @@ Before starting to formally plan the two _Up & Running with Open Data_ events, w
 * Goals and objectives
 * Open Data outcome metrics & standards 
 
+You can view our research notes and references on data literacy [HERE](, and Open Data outcome metrics [HERE]
