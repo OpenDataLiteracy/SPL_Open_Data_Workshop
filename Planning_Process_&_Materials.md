@@ -1,6 +1,6 @@
 # Planning Process & Materials
 This section is all about event planning and logistics. [HERE](https://github.com/OpenDataLiteracy/SPL_Open_Data_Workshop/wiki/Up-&-Running-with-Open-Data:-SPL's-Event-Planning) you will find information on Seattle Public Library's specific event logistics including:
-* Event logistics
+* Date, Time, Place, Event Structure
 * Defined Audiences
 * Learning goals and outcomes
 * Outreach and marketing
