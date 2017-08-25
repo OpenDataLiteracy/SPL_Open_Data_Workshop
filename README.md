@@ -6,6 +6,7 @@ On the landing page of the repository you will find:
 * Preparation & Research 
 * Process & Materials
 * Event Curriculum 
-* Resources & Supplemental Materials
+* Resources & Supplemental Materials  
+* ZIP file of all documents used in SPL's event planning process
 
-Each of the above files has associated Git Wikis, which are linked to each markdown file. The Wikis provide more specific content and may contain links to actual planning documents and curriculum resources used for Seattle Public Library's Open Data events. 
+Each of the above files has associated Git Wikis, which are linked to each markdown file. The Wikis provide more specific content and may contain links to actual planning documents and curriculum resources used for Seattle Public Library's Open Data events. You will find all of the linked files in this repository bundled in the zip file as well.
